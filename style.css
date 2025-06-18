@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+.container{
+    border: 2px solid black;
+    margin: 90px;
+    padding: 15px;
+    background-color: blanchedalmond;
+}
+
+.pera{
+    text-indent: 210px;
+   font-family: "DM Sans", sans-serif;
+}
+
+
+
+#heading{
+   text-align: center;
+}
+
+.subtitle{
+    text-indent: 30px;
+}
+
+.right{
+    text-align: end;
+    padding-right: 30px;
+}
